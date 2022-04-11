@@ -110,7 +110,7 @@
         android:paddingTop="10dp"
         android:paddingRight="15dp"
         android:paddingBottom="10dp"
-        android:textColor="#FFC107"
+        android:textColor="#F1B80D"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
